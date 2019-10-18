@@ -1,0 +1,32 @@
+[2019-09-16 18:40:00] local.ERROR: Symfony\Component\Console\Exception\CommandNotFoundException: Command "serve" is not defined. in /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php:652
+Stack trace:
+#0 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(237): Symfony\Component\Console\Application->find('serve')
+#1 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(149): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /home/gujie/Documents/Code/Packages/Consultancy/vendor/illuminate/console/Application.php(90): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /home/gujie/Documents/Code/Packages/Consultancy/vendor/laravel/lumen-framework/src/Console/Kernel.php(115): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /home/gujie/Documents/Code/Packages/Consultancy/artisan(35): Laravel\Lumen\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main} {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php:652)
+[stacktrace]
+#0 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('serve')
+#1 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/gujie/Documents/Code/Packages/Consultancy/vendor/illuminate/console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/gujie/Documents/Code/Packages/Consultancy/vendor/laravel/lumen-framework/src/Console/Kernel.php(115): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/gujie/Documents/Code/Packages/Consultancy/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-09-16 18:40:11] local.ERROR: Symfony\Component\Console\Exception\CommandNotFoundException: Command "serve" is not defined. in /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php:652
+Stack trace:
+#0 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(237): Symfony\Component\Console\Application->find('serve')
+#1 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(149): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#2 /home/gujie/Documents/Code/Packages/Consultancy/vendor/illuminate/console/Application.php(90): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#3 /home/gujie/Documents/Code/Packages/Consultancy/vendor/laravel/lumen-framework/src/Console/Kernel.php(115): Illuminate\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#4 /home/gujie/Documents/Code/Packages/Consultancy/artisan(35): Laravel\Lumen\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 {main} {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php:652)
+[stacktrace]
+#0 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(237): Symfony\\Component\\Console\\Application->find('serve')
+#1 /home/gujie/Documents/Code/Packages/Consultancy/vendor/symfony/console/Application.php(149): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/gujie/Documents/Code/Packages/Consultancy/vendor/illuminate/console/Application.php(90): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/gujie/Documents/Code/Packages/Consultancy/vendor/laravel/lumen-framework/src/Console/Kernel.php(115): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/gujie/Documents/Code/Packages/Consultancy/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
