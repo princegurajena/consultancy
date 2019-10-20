@@ -6,7 +6,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SOP Consultation |</title>
+    <title>SOP Consultation | </title>
     <meta name="keywords" content="HTML5 Theme" />
     <meta name="description" content="Megakit - HTML5 Theme">
     <meta name="author" content="keenthemes.com">
@@ -131,7 +131,7 @@
                         Strategy | Organisation | People
                     </h1>
                     <h6 class="g-font-size-15--xs g-font-size-25--sm g-font-size-30--md g-color--white g-margin-t-50--lg g-margin-t-50--xs g-margin-t-50--md g-margin-t-40--sm ">
-                        Management Consultation Expertise
+                        Management Consulting Expertise
                     </h6>
                 </div>
             </div>
@@ -139,7 +139,7 @@
 
     </div>
 
-    <a href="#js__scroll-to-section" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
+    <a href="{{ url('/services') }}" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
         <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
         <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
     </a>
