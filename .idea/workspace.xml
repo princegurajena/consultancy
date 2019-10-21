@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a16e1a8-d95f-40e6-9ef4-64a9ba38d766" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gujie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/pages/services.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/css.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/partials/navbar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/services/organization.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/services/people.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/about.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/old.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/old.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/services.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,23 +120,23 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/services" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/services" />
-      <recent name="$PROJECT_DIR$/resources/views/pages" />
-      <recent name="$PROJECT_DIR$/resources/views" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views/partials" />
       <recent name="$PROJECT_DIR$/resources/views/layouts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
+      <recent name="$PROJECT_DIR$/resources/views/services" />
+      <recent name="$PROJECT_DIR$/resources/views" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -187,7 +179,11 @@
       <workItem from="1571386206122" duration="615000" />
       <workItem from="1571389533732" duration="2558000" />
       <workItem from="1571563376280" duration="3487000" />
-      <workItem from="1571573111264" duration="13839000" />
+      <workItem from="1571573111264" duration="14975000" />
+      <workItem from="1571609540923" duration="221000" />
+      <workItem from="1571640280865" duration="55000" />
+      <workItem from="1571658918659" duration="262000" />
+      <workItem from="1571667205347" duration="721000" />
     </task>
     <servers />
   </component>
