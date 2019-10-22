@@ -58,21 +58,21 @@
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-email"></i>
                     <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Email</h4>
-                    <p class="g-color--white-opacity">support@keenthemes.com</p>
+                    <p class="g-color--white-opacity">sopconsulting.zw@gmail.com</p>
                 </div>
             </div>
             <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-map-alt"></i>
                     <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Address</h4>
-                    <p class="g-color--white-opacity">277 Bedford Avenue, Brooklyn</p>
+                    <p class="g-color--white-opacity">3rd Floor, Fidelity Life Tower, Raleigh Street Harare, Zimbabwe</p>
                 </div>
             </div>
             <div class="col-xs-4 g-full-width--xs">
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-headphone-alt"></i>
                     <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Call at</h4>
-                    <p class="g-color--white-opacity">+ (1) 001 389 3720</p>
+                    <p class="g-color--white-opacity">+263 776 183 963 or +263 242 722490</p>
                 </div>
             </div>
         </div>
@@ -109,25 +109,24 @@
             <div class="row">
                 <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
                     <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Home</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">About</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Work</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Contact</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="/">Home</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="/about">About</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="/servicies">Services</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
                     <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Twitter</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Facebook</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Instagram</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">YouTube</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Twitter</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Facebook</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Instagram</a></li>
+                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">YouTube</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
                     <ul class="list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Subscribe to Our Newsletter</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Privacy Policy</a></li>
-                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes">Terms &amp; Conditions</a></li>
+{{--                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Subscribe to Our Newsletter</a></li>--}}
+{{--                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Privacy Policy</a></li>--}}
+{{--                        <li><a class="g-font-size-15--xs g-color--white-opacity" href="">Terms &amp; Conditions</a></li>--}}
                     </ul>
                 </div>
                 <div class="col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
