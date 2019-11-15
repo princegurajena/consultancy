@@ -9,11 +9,23 @@
                     <!-- Logo -->
                     <div class="s-header__logo">
                         <a href="{{ url('/') }}" class="s-header__logo-link">
-                            <img style="height: 70px" class="s-header__logo-img s-header__logo-img-default" src="{{ asset('images/Sopconsulting Logo2.png') }}" alt="Megakit Logo">
-                            <img style="height: 55px" class="s-header__logo-img s-header__logo-img-shrink" src="{{ asset('images/Sopconsulting Logo2.png') }}" alt="Megakit Logo">
+                            <img style="height: 70px" class="s-header__logo-img s-header__logo-img-default" src="{{ asset('images/SOP - Social Media.png') }}" alt="Megakit Logo">
+                            <img style="height: 55px" class="s-header__logo-img s-header__logo-img-shrink" src="{{ asset('images/SOP - Social Media.png') }}" alt="Megakit Logo">
                         </a>
                     </div>
                     <!-- End Logo -->
+                </div>
+                <div class="s-header__navbar-row-col s-header__navbar-row-col">
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse s-header-v2__navbar-collapse" id="nav-collapse">
+                        <ul class="s-header-v2__nav s-header-v2__navbar-col--right g-margin-r-20--sm">
+                            <li class="s-header-v2__nav-item"><a href="{{ url('/services/strategy') }}" class="s-header-v2__nav-link">Strategy</a></li>
+                            <li class="s-header-v2__nav-item"><a href="{{ url('/services/organisation') }}" class="s-header-v2__nav-link">Organisation</a></li>
+                            <li class="s-header-v2__nav-item"><a href="{{ url('/services/people') }}" class="s-header-v2__nav-link">People</a></li>
+                            <li class="s-header-v2__nav-item"><a href="{{ url('/about') }}" class="s-header-v2__nav-link">About</a></li>
+                         </ul>
+                    </div>
+                    <!-- End Nav Menu -->
                 </div>
                 <div class="s-header__navbar-row-col">
                     <!-- Trigger -->

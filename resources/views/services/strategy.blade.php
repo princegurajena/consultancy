@@ -1,10 +1,14 @@
-@extends('layouts.app' , ['mode' => 'dark' ])
+@extends('layouts.app')
 @section('content')
-    <div class="g-bg-color--sky-light">
-        <div style="padding-bottom: 0" class="container g-padding-y-100--xs">
-            <div class="g-padding-y-50--xs">
-                <h1 class="g-font-size-35--xs g-font-size-55--sm g-font-size-70--lg">Strategy</h1>
-                {{--                <p class="g-font-size-22--xs g-font-size-24--md g-margin-b-0--xs">Reimagining the real app experience and leading brands.</p>--}}
+    <div class="g-bg-position--center js__parallax-window s-promo-block-v4" style="background: url('{{ asset('page-img/startup-593341_640.jpg') }}') 50% 0 no-repeat fixed;">
+        <div style="padding-bottom:100px " class="g-container--md g-text-center--xs g-padding-y-150--xs">
+            <div class="g-margin-b-60--xs">
+                <h1 class="g-font-size-40--xs g-font-size-50--sm g-font-size-70--md g-color--white g-letter-spacing--1 g-margin-b-30--xs">Strategy</h1>
+            </div>
+            <div class="animated infinite bounce">
+                <a href="#js__scroll-to-section">
+                    <span class="s-icon s-icon--md s-icon--white-brd g-radius--circle ti-angle-double-down"></span>
+                </a>
             </div>
         </div>
     </div>
@@ -37,7 +41,7 @@
         <div id="js__scroll-to-section" class="container g-padding-y-80--xs g-padding-y-125--xsm ">
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Strategy</p>
+
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Performance Management</h2>
                         <p class="g-font-size-18--sm">
                             <p>
@@ -68,7 +72,7 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 col-sm-push-7 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Strategy</p>
+
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Change Management</h2>
                     <p class="g-font-size-18--sm">
                         <p>
@@ -86,7 +90,7 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Strategy</p>
+
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Organizational Culture Alignment</h2>
                     <p class="g-font-size-18--sm">
                         <p>

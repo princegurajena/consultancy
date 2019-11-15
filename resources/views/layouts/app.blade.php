@@ -6,7 +6,7 @@
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>SOP Consultation | </title>
+    <title>SOP Consulting | </title>
     <meta name="keywords" content="HTML5 Theme" />
     <meta name="description" content="Megakit - HTML5 Theme">
     <meta name="author" content="keenthemes.com">
@@ -98,10 +98,7 @@
     </div>
     <img class="s-mockup-v2" src="{{ asset('img/mockups/pencil-01.png') }}" alt="Mockup Image">
 </div>
-<!-- End Feedback Form -->
-<!--========== END PAGE CONTENT ==========-->
 
-<!--========== FOOTER ==========-->
 <footer class="g-bg-color--dark">
     <!-- Links -->
     <div class="g-hor-divider__dashed--white-opacity-lightest">
@@ -143,16 +140,12 @@
         <div style="display: flex;align-content: center" class="row">
             <div class="col-xs-6">
                 <a href="/">
-                    <img class="g-width-100--xs g-height-auto--xs" src="{{ asset('images/Sopconsulting Logo2.png') }}" alt="Megakit Logo">
+                    <img class="g-width-100--xs g-height-auto--xs" src="{{ asset('images/SOP - Social Media.png') }}" alt="Megakit Logo">
                 </a>
             </div>
             <div class="col-xs-6 g-text-right--xs">
                 <p class="g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">
-                    Copyright &copy;
-                    <script>document.write(new Date().getFullYear());</script>
-                    All rights reserved | Site done by <i class="icon-heart"
-                                                          aria-hidden="true"></i> by <a
-                        href="http://starlight.co.zw" target="_blank">Starlight</a
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Site done by <i class="icon-heart" aria-hidden="true"></i> by <a href="http://starlight.co.zw" target="_blank">Starlight</a>
                 </p>
             </div>
         </div>
@@ -167,6 +160,9 @@
 <script type="text/javascript" src="{{ asset('js/global.min.js') }}"></script>
 <script type="text/javascript" src="{{ asset('js/components/header-sticky.min.js') }}"></script>
 <!--========== END JAVASCRIPTS ==========-->
+
+<script type="text/javascript" src="{{ asset('vendor/swiper/swiper.jquery.min.js') }}"></script>
+<script type="text/javascript" src="{{ asset('js/components/swiper.js') }}"></script>
 
 </body>
 <!-- End Body -->

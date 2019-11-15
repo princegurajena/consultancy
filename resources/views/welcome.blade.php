@@ -47,10 +47,10 @@
         <div class="g-fullheight--xs g-bg-position--center swiper-slide" style="background: url('img/1920x1080/02.jpg');">
             <div class="container g-text-center--xs g-ver-center--xs">
                 <div class="g-margin-b-30--xs">
-                    <h1 class="g-font-weight--700 g-font-size-30--xs g-font-size-50--sm g-font-size-60--md g-color--white">
+                    <h1 data-wow-duration=".3" data-wow-delay=".1s" class="wow fadeInDown animated g-font-weight--700 g-font-size-30--xs g-font-size-50--sm g-font-size-60--md g-color--white">
                         Strategy | Organisation | People
                     </h1>
-                    <h6 class="g-font-size-15--xs g-font-size-25--sm g-font-size-30--md g-color--white g-margin-t-50--lg g-margin-t-30--xs g-margin-t-50--md g-margin-t-40--sm">
+                    <h6 data-wow-duration=".3" data-wow-delay=".1s" class="wow fadeInUp animated g-font-size-15--xs g-font-size-25--sm g-font-size-30--md g-color--white g-margin-t-50--lg g-margin-t-30--xs g-margin-t-50--md g-margin-t-40--sm">
                         Management Consulting Expertise
                     </h6>
                 </div>
@@ -60,8 +60,11 @@
     </div>
 
     <a href="{{ url('/services') }}" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
-        <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
-        <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
+        <div class="animated infinite bounce">
+            <span class="g-font-size-18--xs g-color--white ti-angle-double-down"></span>
+            <p class="text-uppercase g-color--white g-letter-spacing--3 g-margin-b-0--xs">Learn More</p>
+        </div>
+
     </a>
 </div>
 
