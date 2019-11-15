@@ -36,6 +36,13 @@
 <!-- Body -->
 <body>
 
+@if (session()->has('message'))
+    <div style="position: fixed;bottom: 0;right: 0;left: 0;padding: 30px;background-color: #0b0b0b;color: #FFFFFF;width: 100%;text-align: center;z-index: 999">
+        {{ session()->get('message') }}
+    </div>
+@endif
+
+
 @if (isset($mode))
         @include('partials.navbar' , [ 'mode' => $mode ])
     @else
@@ -76,20 +83,21 @@
                 </div>
             </div>
         </div>
-        <form class="center-block g-width-500--sm g-width-550--md">
+        <form method="post" action="/contact" class="center-block g-width-500--sm g-width-550--md">
+            @csrf
             <div class="g-margin-b-30--xs">
-                <input type="text" class="form-control s-form-v3__input" placeholder="* Name">
+                <input name="name" type="text" class="form-control s-form-v3__input" placeholder="* Name">
             </div>
             <div class="row g-row-col-5 g-margin-b-50--xs">
                 <div class="col-sm-6 g-margin-b-30--xs g-margin-b-0--md">
-                    <input type="email" class="form-control s-form-v3__input" placeholder="* Email">
+                    <input name="email" type="email" class="form-control s-form-v3__input" placeholder="* Email">
                 </div>
                 <div class="col-sm-6">
-                    <input type="text" class="form-control s-form-v3__input" placeholder="* Phone">
+                    <input name="phone" type="text" class="form-control s-form-v3__input" placeholder="* Phone">
                 </div>
             </div>
             <div class="g-margin-b-80--xs">
-                <textarea class="form-control s-form-v3__input" rows="5" placeholder="* Your message"></textarea>
+                <textarea name="message" class="form-control s-form-v3__input" rows="5" placeholder="* Your message"></textarea>
             </div>
             <div class="g-text-center--xs">
                 <button type="submit" class="text-uppercase s-btn s-btn--md s-btn--white-bg g-radius--50 g-padding-x-70--xs g-margin-b-20--xs">Submit</button>
