@@ -73,21 +73,15 @@
         <!-- Action -->
         <ul class="list-inline s-header__action s-header__action--rb">
             <li class="s-header__action-item">
-                <a class="s-header__action-link" href="#">
+                <a class="s-header__action-link" href="https://www.facebook.com/SOPConsultingZW/">
                     <i class="g-padding-r-5--xs ti-facebook"></i>
                     <span class="g-display-none--xs g-display-inline-block--sm">Facebook</span>
                 </a>
             </li>
             <li class="s-header__action-item">
-                <a class="s-header__action-link" href="#">
+                <a class="s-header__action-link" href="https://twitter.com/SOPHRConsulting">
                     <i class="g-padding-r-5--xs ti-twitter"></i>
                     <span class="g-display-none--xs g-display-inline-block--sm">Twitter</span>
-                </a>
-            </li>
-            <li class="s-header__action-item">
-                <a class="s-header__action-link" href="#">
-                    <i class="g-padding-r-5--xs ti-instagram"></i>
-                    <span class="g-display-none--xs g-display-inline-block--sm">Instagram</span>
                 </a>
             </li>
         </ul>
