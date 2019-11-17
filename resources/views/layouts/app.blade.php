@@ -65,14 +65,14 @@
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-email"></i>
                     <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Email</h4>
-                    <p class="g-color--white-opacity">sopconsulting.zw@gmail.com</p>
+                    <p class="g-color--white-opacity">info@sopconsulting.co.zw</p>
                 </div>
             </div>
             <div class="col-xs-4 g-full-width--xs g-margin-b-50--xs g-margin-b-0--sm">
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-map-alt"></i>
                     <h4 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Address</h4>
-                    <p class="g-color--white-opacity">3rd Floor, Fidelity Life Tower, Raleigh Street Harare, Zimbabwe</p>
+                    <p class="g-color--white-opacity">Prospect Industrial Park, Ceres Road, Prospect <br> Harare, Zimbabwe</p>
                 </div>
             </div>
             <div class="col-xs-4 g-full-width--xs">

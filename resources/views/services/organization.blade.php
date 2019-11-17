@@ -40,7 +40,6 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 col-sm-push-7 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Organization </p>
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Job Design</h2>
                     <p class="g-font-size-18--sm">
                         <p>A job is important in the effectiveness of an organization – it is the single unit of work arrangement, putting together tasks in a meaningful way that ensures effective and efficient process flows. Effective Job Design also ensures employee satisfaction through dynamic work organization.</p>
@@ -54,7 +53,6 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Strategy</p>
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Job Evaluation</h2>
                     <p class="g-font-size-18--sm">
                      <p>
@@ -106,7 +104,6 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 col-sm-push-7 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">Organization </p>
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Remuneration Structuring</h2>
                     <p class="g-font-size-18--sm">
                         <p>

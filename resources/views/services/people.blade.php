@@ -43,7 +43,6 @@
             </div>
             <div class="row g-hor-centered-row--md g-row-col--5 g-margin-b-80--xs g-margin-b-100--md">
                 <div class="col-sm-5 col-sm-push-7 g-hor-centered-row__col">
-                    <p class="text-uppercase g-font-size-14--xs g-font-weight--700 g-color--primary g-letter-spacing--2 g-margin-b-25--xs">People </p>
                     <h2 class="g-font-size-32--xs g-font-size-36--sm g-margin-b-25--xs">Skills Auditing</h2>
                     <p class="g-font-size-18--sm"><p>
                         Are the key competencies underpinning your business model well-defined? Does your organization have the capabilities to meet both your current and future goals? Through Skills Auditing, we will assist you with defining the key competencies that determine business success for your organization. We will then develop and assess competencies for each individual role/person in the organization – the results of which will determine adequacy to meet current and future goals.

@@ -56,7 +56,6 @@
                 </div>
             </div>
         </div>
-
     </div>
 
     <a href="{{ url('/services') }}" class="s-scroll-to-section-v1--bc g-margin-b-15--xs">
