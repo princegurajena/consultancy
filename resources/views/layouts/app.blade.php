@@ -75,6 +75,7 @@
                     <p class="g-color--white-opacity">Prospect Industrial Park, Ceres Road, Prospect <br> Harare, Zimbabwe</p>
                 </div>
             </div>
+
             <div class="col-xs-4 g-full-width--xs">
                 <div class="g-text-center--xs">
                     <i class="g-display-block--xs g-font-size-40--xs g-color--white-opacity g-margin-b-30--xs ti-headphone-alt"></i>
